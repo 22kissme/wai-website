@@ -111,7 +111,8 @@ We welcome your feedback and suggestions to improve WAI materials, to <wai-eo-ed
 
 ## Appropriate Use
 
-As stated in the W3C [Intellectual Rights FAQ](https://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#annotate): W3C may rescind your right to publish or distribute derivative works if the W3C finds that it leads to confusion regarding the original document's status or integrity.
+As stated in the W3C [Intellectual Rights FAQ](https://www.w3.org/Consortium/Leg
+al/IPR-FAQ-20000620#annotate): W3C may rescind your right to publish or distribute derivative works if the W3C finds that it leads to confusion regarding the original document's status or integrity.
 
 ## Additional Information
 
